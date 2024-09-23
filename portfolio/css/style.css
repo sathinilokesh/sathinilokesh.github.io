@@ -112,6 +112,10 @@ section h2 {
     margin-bottom: 20px;
 }
 
+.project-card a{
+    color: white;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     header h1 {
